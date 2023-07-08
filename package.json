@@ -1,0 +1,26 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "A social media network for tracking users, friends, people's thoughts and reactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadeemTalaat/Social-Network-API.git"
+  },
+  "author": "Nadeem Talaat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadeemTalaat/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/NadeemTalaat/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
