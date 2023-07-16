@@ -21,7 +21,7 @@ Run "npm i && npm run watch"
 
 ## Usage
 
-Refer to video demonstration
+Refer to video demonstration which can be found [here](https://drive.google.com/file/d/154-JVnRUzZYUEyQdMJpPiNXEqJmpNfss/view).
 
 ## Contributing
 
